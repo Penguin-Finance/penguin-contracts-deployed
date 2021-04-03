@@ -1,6 +1,6 @@
+
 // File: @openzeppelin/contracts/token/ERC20/IERC20.sol
 
-// SPDX-License-Identifier: MIT
 
 pragma solidity >=0.6.0 <0.8.0;
 
@@ -988,11 +988,11 @@ contract PenguinNests is ERC20("PenguinNests", "xPEFI"), Ownable {
 
     uint256 public constant MAX_EARLY_WITHDRAW_FEE = 10000;
     // This is a variable that can be changed by the owner 
-    uint256 public earlyWithdrawalFee = 800;
+    uint256 public earlyWithdrawalFee = 2500;
 
     // Start time of when this contract was created
     uint256 public unlockDate;
-    uint256 public constant LOCK_PERIOD = 61 days;
+    uint256 public constant LOCK_PERIOD = 180 days;
 
     // Make sure that the PenguinToken contract we are passing in here
     // has the function `burnOwnTokens` which will burn tokens of your own
