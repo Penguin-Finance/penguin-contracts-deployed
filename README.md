@@ -12,5 +12,5 @@ https://cchain.explorer.avax.network/address/0x8AC8ED5839ba269Be2619FfeB3507baB6
 
 
 PenguinNests:
-https://cchain.explorer.avax.network/address/0xF21dD579489520C6E4C8aD273f41D343Fa9d5b2F/read-contract
+https://cchain.explorer.avax.network/address/0xD79A36056c271B988C5F1953e664E61416A9820F/read-contract
 
