@@ -33,6 +33,8 @@ https://cchain.explorer.avax.network/address/0xaAD41CCf76c035DAF80d662584823215f
 
 Compounder V1:
 
+PenguinStrategyGlobalVariables:
+https://cchain.explorer.avax.network/address/0x37Bf157A569e4c0F478d0d2864af9a49be8e0797/contracts
 
 1  PeFi: PEFI/AVAX
 https://cchain.explorer.avax.network/address/0xaB6eEd788BEed09D1279b21B6C91F9750242E0f5/write-contract
