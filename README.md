@@ -5,13 +5,26 @@ PenguinToken:
 https://cchain.explorer.avax.network/address/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/read-contract
 
 
+Penguin Igloos V2 / IglooMaster:
+https://cchain.explorer.avax.network/address/0x256040dc7b3CECF73a759634fc68aA60EA0D68CB/contracts
+
+The Strategy and Rewarder contract (if applicable) for each igloo can be reached by querying the "poolInfo" function on the IglooMaster.
+
+
+PenguinNestsV2 / iPEFI:
+https://cchain.explorer.avax.network/address/0xE9476e16FE488B90ada9Ab5C7c2ADa81014Ba9Ee/contracts
+
+
+PenguinNestMigrator (xPEFI => iPEFI migrator contract):
+https://cchain.explorer.avax.network/address/0x20901c664765c910623A9F1fed3e35d1B90DDEd8/contracts
+
 
 Penguin Igloos/MasterChef:
 https://cchain.explorer.avax.network/address/0x8AC8ED5839ba269Be2619FfeB3507baB6275C257/read-contract
 
 
 
-PenguinNests:
+PenguinNestsV1 / xPEFI:
 https://cchain.explorer.avax.network/address/0xD79A36056c271B988C5F1953e664E61416A9820F/read-contract
 
 
