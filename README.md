@@ -27,6 +27,10 @@ Penguin Database (from above round of Penguin Emperor):
 https://cchain.explorer.avax.network/address/0x8E28C0986C05dC59502051201eE64624F93c5E67/contracts
 
 
+Timelock:
+https://cchain.explorer.avax.network/address/0xC8e5bBBfE68D4189B601B25815CdcACf60b92BA9/contracts
+
+
 # DEPRECATED CONTRACTS:
 
 
