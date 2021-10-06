@@ -1,5 +1,5 @@
 # penguin-contracts-deployed
-
+# ACTIVE CONTRACTS:
 
 PenguinToken:
 https://cchain.explorer.avax.network/address/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/read-contract
@@ -19,19 +19,27 @@ PenguinNestMigrator (xPEFI => iPEFI migrator contract):
 https://cchain.explorer.avax.network/address/0x20901c664765c910623A9F1fed3e35d1B90DDEd8/contracts
 
 
+Penguin Emperor V9.7 -- from the round starting Sept. 23, 2021:
+https://cchain.explorer.avax.network/address/0xAb2B099beF83b7E3AB3d8690a5DB15f64c648697/contracts
+
+
+Penguin Database (from above round of Penguin Emperor):
+https://cchain.explorer.avax.network/address/0x8E28C0986C05dC59502051201eE64624F93c5E67/contracts
+
+
+# DEPRECATED CONTRACTS:
+
+
 Penguin Igloos/MasterChef:
 https://cchain.explorer.avax.network/address/0x8AC8ED5839ba269Be2619FfeB3507baB6275C257/read-contract
-
 
 
 PenguinNestsV1 / xPEFI:
 https://cchain.explorer.avax.network/address/0xD79A36056c271B988C5F1953e664E61416A9820F/read-contract
 
 
-
 Penguin Emperor V1
 https://cchain.explorer.avax.network/address/0xbEfECD5D04a21136600B1E31b4d53e0fdF076c25/contracts
-
 
 
 Penguins Without Borders:
@@ -43,8 +51,7 @@ Penguin Database (from Penguins Without Borders):
 https://cchain.explorer.avax.network/address/0xaAD41CCf76c035DAF80d662584823215f2e0487D/transactions
 
 
-
-Compounder V1:
+## Compounder V1 (DEPRECATED):
 
 PenguinStrategyGlobalVariables:
 https://cchain.explorer.avax.network/address/0x37Bf157A569e4c0F478d0d2864af9a49be8e0797/contracts
