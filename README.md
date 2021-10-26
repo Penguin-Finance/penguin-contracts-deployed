@@ -19,6 +19,10 @@ PenguinNestMigrator (xPEFI => iPEFI migrator contract):
 https://cchain.explorer.avax.network/address/0x20901c664765c910623A9F1fed3e35d1B90DDEd8/contracts
 
 
+Club Penguin / PenguinIceberg contract:
+https://cchain.explorer.avax.network/address/0xc96D1131B40b95c75d0336574e8e4256a0A074A1/contracts
+
+
 Penguin Emperor V9.7 -- from the round starting Sept. 23, 2021:
 https://cchain.explorer.avax.network/address/0xAb2B099beF83b7E3AB3d8690a5DB15f64c648697/contracts
 
