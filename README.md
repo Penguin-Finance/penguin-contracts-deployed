@@ -27,6 +27,14 @@ Penguin Emperor V9.7 -- from the round starting Sept. 23, 2021:
 https://cchain.explorer.avax.network/address/0xAb2B099beF83b7E3AB3d8690a5DB15f64c648697/contracts
 
 
+PenguinLaunchpadStaking:
+https://cchain.explorer.avax.network/address/0xb1a3f09D7A5dFB45600931E18375501973772426/transactions
+
+
+PenguinBoosterRocket -- swapping functionality of launchpad:
+https://cchain.explorer.avax.network/address/0x90D2652B7abB628fDf907ed4ECc4711EA8ffBAf9/read-contract
+
+
 Penguin Database (from above round of Penguin Emperor):
 https://cchain.explorer.avax.network/address/0x8E28C0986C05dC59502051201eE64624F93c5E67/contracts
 
